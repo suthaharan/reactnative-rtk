@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "firstName": "Jason",
+        "lastName": "Williams",
+        "phone": "111-222-3333",
+        "company": "Stax Inc.",
+        "project": "My CRM World",
+        "notes": "Beginner tutorial"
+    },
+    {
+        "id": 2,
+        "firstName": "Wang",
+        "lastName": "Williams",
+        "phone": "111-222-3333",
+        "company": "Kurinchi Inc.",
+        "project": "My CRM World",
+        "notes": "Beginner tutorial"
+    },{
+        "id": 3,
+        "firstName": "Chillaw",
+        "lastName": "Williams",
+        "phone": "111-222-3333",
+        "company": "Ace Inc.",
+        "project": "My CRM World",
+        "notes": "Beginner tutorial"
+    }
+]
